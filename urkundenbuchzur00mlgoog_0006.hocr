@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./urkundenbuchzur00mlgoog_0006.png"; bbox 0 0 4048 6284; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 681 2261 1450 2455">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 681 2108 1450 2455">
+     <span class='ocr_line' id='line_1_1' title="bbox 681 2261 1450 2455; baseline -0.003 0"><span class='ocrx_word' id='word_1_1' title='bbox 681 2261 1450 2455; x_wconf 73' lang='lat' dir='ltr'>Urkundenbussh</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 346 2866 1763 3013">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 346 2866 1763 3013">
+     <span class='ocr_line' id='line_1_2' title="bbox 346 2866 1763 3013; baseline -0.002 -22"><span class='ocrx_word' id='word_1_2' title='bbox 346 2868 706 2991; x_wconf 79' lang='lat' dir='ltr'><strong>Gesohiehte</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 729 2868 838 2989; x_wconf 71' lang='lat' dir='ltr'>der</span> <span class='ocrx_word' id='word_1_4' title='bbox 856 2866 1189 2989; x_wconf 76' lang='lat' dir='ltr'>Deutsehen</span> <span class='ocrx_word' id='word_1_5' title='bbox 1216 2870 1280 2988; x_wconf 86' lang='lat' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_6' title='bbox 1300 2866 1763 3013; x_wconf 72' lang='lat' dir='ltr'>Siebenburgen.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 2028 6276">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 2028 6276">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 2028 6276; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 2028 6276; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
